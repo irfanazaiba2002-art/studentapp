@@ -24,6 +24,8 @@ studentapp/
 ├── .gitignore
 ├── docker-entrypoint-initdb.d/
 ├── student/
+|__README.md
+
 
 
 ## How to Run
