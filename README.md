@@ -14,6 +14,16 @@ A web-based Student Management System developed using PHP, MySQL, Apache, and Do
 - MySQL
 - Docker
 - Apache
+# Project Structure
+
+studentapp/
+│
+├── Dockerfile
+├── docker-compose.yml
+├── .gitignore
+├── docker-entrypoint-initdb.d/
+├── student/
+
 
 ## How to Run
 1. Clone the repository
