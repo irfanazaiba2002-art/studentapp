@@ -16,6 +16,7 @@ A web-based Student Management System developed using PHP, MySQL, Apache, and Do
 - Apache
 # Project Structure
 
+```text
 studentapp/
 │
 ├── Dockerfile
